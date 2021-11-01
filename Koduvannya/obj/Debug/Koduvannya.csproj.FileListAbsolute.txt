@@ -1,0 +1,30 @@
+C:\Users\Admin555\source\repos\Koduvannya\Koduvannya\bin\Debug\Koduvannya.exe.config
+C:\Users\Admin555\source\repos\Koduvannya\Koduvannya\bin\Debug\Koduvannya.exe
+C:\Users\Admin555\source\repos\Koduvannya\Koduvannya\bin\Debug\Koduvannya.pdb
+C:\Users\Admin555\source\repos\Koduvannya\Koduvannya\obj\Debug\Koduvannya.csprojAssemblyReference.cache
+C:\Users\Admin555\source\repos\Koduvannya\Koduvannya\obj\Debug\MainWindow.g.cs
+C:\Users\Admin555\source\repos\Koduvannya\Koduvannya\obj\Debug\App.g.cs
+C:\Users\Admin555\source\repos\Koduvannya\Koduvannya\obj\Debug\Koduvannya_MarkupCompile.cache
+C:\Users\Admin555\source\repos\Koduvannya\Koduvannya\obj\Debug\Koduvannya_MarkupCompile.lref
+C:\Users\Admin555\source\repos\Koduvannya\Koduvannya\obj\Debug\MainWindow.baml
+C:\Users\Admin555\source\repos\Koduvannya\Koduvannya\obj\Debug\Koduvannya.g.resources
+C:\Users\Admin555\source\repos\Koduvannya\Koduvannya\obj\Debug\Koduvannya.Properties.Resources.resources
+C:\Users\Admin555\source\repos\Koduvannya\Koduvannya\obj\Debug\Koduvannya.csproj.GenerateResource.cache
+C:\Users\Admin555\source\repos\Koduvannya\Koduvannya\obj\Debug\Koduvannya.csproj.CoreCompileInputs.cache
+C:\Users\Admin555\source\repos\Koduvannya\Koduvannya\obj\Debug\Koduvannya.exe
+C:\Users\Admin555\source\repos\Koduvannya\Koduvannya\obj\Debug\Koduvannya.pdb
+C:\Users\Admin555\source\repos\Koduvannya exeshnik\Koduvannya\bin\Debug\Koduvannya.exe.config
+C:\Users\Admin555\source\repos\Koduvannya exeshnik\Koduvannya\bin\Debug\Koduvannya.exe
+C:\Users\Admin555\source\repos\Koduvannya exeshnik\Koduvannya\bin\Debug\Koduvannya.pdb
+C:\Users\Admin555\source\repos\Koduvannya exeshnik\Koduvannya\obj\Debug\Koduvannya.csprojAssemblyReference.cache
+C:\Users\Admin555\source\repos\Koduvannya exeshnik\Koduvannya\obj\Debug\MainWindow.g.cs
+C:\Users\Admin555\source\repos\Koduvannya exeshnik\Koduvannya\obj\Debug\App.g.cs
+C:\Users\Admin555\source\repos\Koduvannya exeshnik\Koduvannya\obj\Debug\Koduvannya_MarkupCompile.cache
+C:\Users\Admin555\source\repos\Koduvannya exeshnik\Koduvannya\obj\Debug\Koduvannya_MarkupCompile.lref
+C:\Users\Admin555\source\repos\Koduvannya exeshnik\Koduvannya\obj\Debug\MainWindow.baml
+C:\Users\Admin555\source\repos\Koduvannya exeshnik\Koduvannya\obj\Debug\Koduvannya.g.resources
+C:\Users\Admin555\source\repos\Koduvannya exeshnik\Koduvannya\obj\Debug\Koduvannya.Properties.Resources.resources
+C:\Users\Admin555\source\repos\Koduvannya exeshnik\Koduvannya\obj\Debug\Koduvannya.csproj.GenerateResource.cache
+C:\Users\Admin555\source\repos\Koduvannya exeshnik\Koduvannya\obj\Debug\Koduvannya.csproj.CoreCompileInputs.cache
+C:\Users\Admin555\source\repos\Koduvannya exeshnik\Koduvannya\obj\Debug\Koduvannya.exe
+C:\Users\Admin555\source\repos\Koduvannya exeshnik\Koduvannya\obj\Debug\Koduvannya.pdb
